@@ -68,7 +68,7 @@ Edit
 cd frontend
 
 # Step 2: Install Node dependencies
-npm install
+npm install axios 
 
 # Step 3: Install Leaflet and Router
 npm install react-leaflet leaflet react-router-dom
